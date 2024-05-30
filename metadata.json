@@ -1,0 +1,35 @@
+{
+    "name": "TestSolNft",
+    "description": "Testing solana metaplex programmatic nfts",
+    "image": "https://arweave.net/VvYwahMyn9EuPXknuazBqjBJpSQzua3SVD07LcCfND8",
+    "attributes": [
+        {
+            "trait_type": "Text Color",
+            "value": "Red"
+        },
+        {
+            "trait_type": "TestMultiValueTypes",
+            "value": "Logo"
+        },
+        {
+            "trait_type": "TestMultiValueTypes",
+            "value": "Test"
+        },
+        {
+            "trait_type": "TestMultiValueTypes",
+            "value": "PNft"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Light Gray"
+        }
+    ],
+    "properties": {
+        "files": [
+            {
+                "type": "image/png",
+                "uri": "https://arweave.net/VvYwahMyn9EuPXknuazBqjBJpSQzua3SVD07LcCfND8"
+            }
+        ]
+    }
+}

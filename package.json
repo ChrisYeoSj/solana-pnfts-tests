@@ -1,0 +1,19 @@
+{
+  "name": "solana-pnfts-tests",
+  "version": "1.0.0",
+  "description": "Testing the PNFTs of Solana",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "generate-sol-wallet": "node dist/scripts/generateSolWallet",
+    "generate-nft": "node dist/app"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@metaplex-foundation/js": "^0.20.1",
+    "@solana/web3.js": "^1.91.8",
+    "dotenv": "^16.4.5"
+  }
+}
