@@ -7,3 +7,7 @@ Testing the PNFTs of Solana
 3. To generate your wallet, run `npm run generate-sol-wallet`. - Note if funding the devnet wallet's code has failed, manually add devnet solana by using this [faucet](https://faucet.solana.com/)
 4. Adjust Config and Images if necessary
 5. Run `npm run generate-nft`. Enjoy!
+
+
+## Credits
+Quicknode on their Metaplex PNft Guide
